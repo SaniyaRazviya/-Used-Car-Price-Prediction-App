@@ -91,8 +91,7 @@ To build an interactive app where users can explore used car data, analyze featu
 
 ## 📊 Screenshots
 
-"C:\Users\Raza\OneDrive\图片\Screenshots\Screenshot 2025-04-26 160718.png"
-
+![Home](screenshots/Screenshot%202025-04-26%20160718.png)
 
 ---
 
