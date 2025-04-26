@@ -93,7 +93,7 @@ To build an interactive app where users can explore used car data, analyze featu
 
 | Home Page | Feature Analysis | Price Prediction |
 |:---------:|:----------------:|:----------------:|
-| ![Home]("C:\Users\Raza\OneDrive\图片\Screenshots\Screenshot 2025-04-26 160718.png") | ![Feature](screenshots/feature.png) | ![Prediction](screenshots/predict.png) |
+| ![Home](screenshots/home.png) | ![Feature](screenshots/feature_analysis.png) | ![Prediction](screenshots/price_prediction.png) |
 
 
 ---
