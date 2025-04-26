@@ -92,6 +92,11 @@ To build an interactive app where users can explore used car data, analyze featu
 ## 📊 Screenshots
 | Home Page |
 ![Screenshot 2025-04-26 160718](https://github.com/user-attachments/assets/9aab788b-01c0-4a76-b8ed-b66b72f60b6a)
+| Features |
+![Screenshot 2025-04-26 163113](https://github.com/user-attachments/assets/b2daa364-3856-420a-b02a-20ed5385786e)
+| Price Prediction |
+![Screenshot 2025-04-26 163133](https://github.com/user-attachments/assets/e5c5558b-25b4-49db-9496-5b81a39b3adf)
+
 
 
 ---
@@ -123,7 +128,7 @@ To build an interactive app where users can explore used car data, analyze featu
 
 ## 🧠 Author
 
-- **Your Name** – [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+- **Saniya Banu** – [GitHub](https://github.com/SaniyaRazviya) 
 
 ---
 
@@ -139,5 +144,3 @@ This project was built as part of an **AI & ML** course assignment focused on ap
 
 ---
 
-Would you also like me to create a sample `requirements.txt` file for you? 🚀  
-It'll make running your project even easier! 🌟
