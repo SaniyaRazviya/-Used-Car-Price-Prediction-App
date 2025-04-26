@@ -90,11 +90,11 @@ To build an interactive app where users can explore used car data, analyze featu
 ---
 
 ## 📊 Screenshots
-**| Home Page |
-**![Screenshot 2025-04-26 160718](https://github.com/user-attachments/assets/9aab788b-01c0-4a76-b8ed-b66b72f60b6a)
-| Features |
+**| Home Page |**
+![Screenshot 2025-04-26 160718](https://github.com/user-attachments/assets/9aab788b-01c0-4a76-b8ed-b66b72f60b6a)
+**| Features |**
 ![Screenshot 2025-04-26 163113](https://github.com/user-attachments/assets/b2daa364-3856-420a-b02a-20ed5385786e)
-| Price Prediction |
+**| Price Prediction |**
 ![Screenshot 2025-04-26 163133](https://github.com/user-attachments/assets/e5c5558b-25b4-49db-9496-5b81a39b3adf)
 
 
